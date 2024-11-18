@@ -4,8 +4,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url(src: url('https://nunestalita.github.io/projeto-android/fontes/idroid.otf') format('opentype');
-    ) format(opentype);
+    src: url('/fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 
